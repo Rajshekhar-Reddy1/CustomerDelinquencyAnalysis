@@ -11,4 +11,12 @@ MFS becomes especially useful when targeting the unbanked poor living in remote 
 The implementation of MFS, though, has been uneven with both significant challenges and successes.
 
 Today, microfinance is widely accepted as a poverty-reduction tool, representing $70 billion in outstanding loans and a global outreach of 200 million clients.
+
 ![Uploading image.png…]()
+
+Scenario:
+A telecom company Insignia, wants to predict whether a customer will be delinquent or not; so that they can be prepared for customers which can turn out to be defaulters later.
+
+Target Feature	Potential Values
+target	0: Failure
+1: Success
