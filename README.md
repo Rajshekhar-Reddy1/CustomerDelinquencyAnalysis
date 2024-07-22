@@ -12,6 +12,8 @@ The implementation of MFS, though, has been uneven with both significant challen
 
 Today, microfinance is widely accepted as a poverty-reduction tool, representing $70 billion in outstanding loans and a global outreach of 200 million clients.
 
+
+![alt text](http://url/to/img.png) 
 ![Uploading image.png…]()
 
 Scenario:
